@@ -223,4 +223,4 @@ Pinball FX3 is available as a full free version with all features and updates in
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-06 07:17:57 UTC
+**Last updated:** 2026-10-06 14:50:41 UTC
